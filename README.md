@@ -10,7 +10,7 @@
 
 | Project | Language | Themes | Description |
 |---|---|---|---|
-| [**miniRT**](https://github.com/Ayoubkrif/miniRT) | C | Graphics · Ray-tracing | A ray tracer written from scratch — Blinn-Phong shading, UV texture mapping, bump mapping, interactive real-time controls |
+| [**miniRT**](https://github.com/Ayoubkrif/miniRT) | C | Graphics · Ray-tracing | A ray tracer written from scratch |
 | [**webserv**](https://github.com/Ayoubkrif/webserv) | C++ | HTTP protocol | A custom HTTP web server |
 | [**minishell**](https://github.com/Ayoubkrif/minishell) | C | Shell · UNIX | A minimal Unix shell interpreter |
 | [**Inception**](https://github.com/Ayoubkrif/Inception) | Makefile | DevOps · Docker | Docker infrastructure built with Vagrant |
