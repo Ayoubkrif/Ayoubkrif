@@ -14,4 +14,4 @@
 | [**webserv**](https://github.com/Ayoubkrif/webserv) | C++ | HTTP protocol | A custom HTTP web server |
 | [**minishell**](https://github.com/Ayoubkrif/minishell) | C | Shell · UNIX | A minimal Unix shell interpreter |
 | [**Inception**](https://github.com/Ayoubkrif/Inception) | Makefile | DevOps · Docker | Docker infrastructure built with Vagrant |
-| [**neovim-config**](https://github.com/Ayoubkrif/neovim-config) | Lua | Tooling | Personal Neovim configuration |
+| [**myavrlib**](https://github.com/Ayoubkrif/myavrlib) | C | Embedded · AVR | A utility library for AVR microcontrollers |
