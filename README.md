@@ -2,7 +2,7 @@
 
 ### A Software Engineering learner based in Paris
 
-- 🌱 I'm currently learning **C++ and systems programming**
+- 🌱 I'm currently digging **cryptography & low-level networking**
 - 💻 I build low-level projects: ray tracers, shells, network servers
 - 📄 Learn more about my experience: <https://www.linkedin.com/in/ayoub-k-28970b290/>
 
